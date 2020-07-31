@@ -1,3 +1,3 @@
 plugins {
-    id("com.example.buildsrc.HelloPlugin")
+    id("com.example.buildsrc.example")
 }

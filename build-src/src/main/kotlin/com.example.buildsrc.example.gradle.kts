@@ -1,0 +1,1 @@
+tasks.register("greet", com.example.buildsrc.HelloTask::class)
